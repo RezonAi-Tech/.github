@@ -3,10 +3,6 @@
 
 ---
 
-![RenzoAl Tech Banner](https://via.placeholder.com/1200x400.png?text=RenzoAl+Tech&bg=4a90e2&color=ffffff)  
-
----
-
 <p align="center">
     <img src="https://img.shields.io/badge/Innovative%20Solutions-AI%20%7C%20ML%20%7C%20Web%20Development-blueviolet?style=for-the-badge" alt="Innovative Solutions Badge"/>
     <img src="https://img.shields.io/badge/Location-India-ff69b4?style=for-the-badge" alt="Location Badge"/>
@@ -82,9 +78,7 @@ Our work is primarily licensed under the **MIT License**, promoting open collabo
 
 ## 🎨 **Visuals & Design**  
 <p align="center">
-    <img src="https://via.placeholder.com/800x400.png?text=RenzoAl+Tech&bg=ff6f61&color=ffffff" alt="RenzoAl Tech Visual"/>
-</p>  
-
+   
 ---
 
 <h2 align="center">🚀 <i>Let's Build the Future Together!</i> 🚀</h2>  
