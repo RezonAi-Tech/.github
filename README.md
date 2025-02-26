@@ -40,7 +40,7 @@
 ## 🛠 **Tech Stack**  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,python,supabase,js,html,css,git,github" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react, tailwind css,python,supabase,C,C++,gitlab,git,github" alt="Tech Stack Icons"/>
 </p>  
 
 ---
@@ -64,7 +64,7 @@ We believe in the power of collaboration and are always open to new ideas, partn
 ## 📧 **Contact Us**  
 
 <p align="center">
-    📍 **India**  
+    📍 #India
     <br>
     ✉️ <a href="mailto:rezonaitech@gmail.com">rezonaitech@gmail.com</a>  
 </p>  
