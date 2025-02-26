@@ -40,7 +40,7 @@
 ## 🛠 **Tech Stack**  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind css,python,supabase,gitlab,github" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwindcss,python,supabase,github" alt="Tech Stack Icons"/>
 </p>  
 
 ---
