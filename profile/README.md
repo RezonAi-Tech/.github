@@ -12,7 +12,7 @@
 ---
 
 ## 🌐 **About Us**  
-**RenzoAl Tech** is a pioneering technology company based in India, dedicated to delivering transformative software solutions. We specialize in **machine learning**, **data science**, **server architecture**, and **modern web development**, consistently pushing the boundaries of technology through innovation and excellence.  
+**RenzoAl Tech** is a pioneering technology company based in India, dedicated to delivering transformative software solutions. We specialize in **machine learning**, **data science**, **server architecture**, and **web development**. Our mission is to empower businesses with cutting-edge technologies that drive innovation and efficiency.
 
 ---
 
@@ -31,7 +31,6 @@
 
 - 🧠 **Artificial Intelligence & Machine Learning:** Crafting intelligent, data-driven applications.  
 - 📈 **Data Science:** Turning data into actionable insights and predictive analytics.  
-- 🌐 **Web Development:** Delivering modern and responsive web applications using **Next.js**, **Supabase**, and **advanced Python**.  
 - 🛠 **Server Architecture:** Designing scalable and secure backend systems.  
 - 💡 **Creative Solutions:** Utilizing advanced technologies and innovative approaches to solve complex problems.  
 
@@ -40,13 +39,13 @@
 ## 🛠 **Tech Stack**  
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=tailwindcss,supabase,github,gitlab,git,firebase" alt="Tech Stack Icons"/>
+    <img src="https://skillicons.dev/icons?i=tailwindcss,supabase,github,git,firebase" alt="Tech Stack Icons"/>
 </p>  
 
 ---
 
 ## 🌐 **Explore Our Work**  
-We are dedicated to sharing our knowledge and collaborating with the developer community. Check out our repositories, contribute to our open-source projects, and join us on our journey of innovation.  
+We are dedicated to sharing our knowledge and collaborating with the developer community. Check out our repositories, contribute to our open-source projects, and join us on our journey of innovation.
 
 <p align="center">
     <a href="https://github.com/RezonAi-Tech">
@@ -57,7 +56,7 @@ We are dedicated to sharing our knowledge and collaborating with the developer c
 ---
 
 ## 🤝 **Collaborate With Us**  
-We believe in the power of collaboration and are always open to new ideas, partnerships, and contributions. Whether you're a developer, researcher, or innovator, we welcome you to connect with us and explore potential synergies.  
+We believe in the power of collaboration and are always open to new ideas, partnerships, and contributions. Whether you're a developer, researcher, or innovator, we welcome you to connect with us and join our mission to build the future.
 
 ---
 
@@ -76,16 +75,8 @@ Our work is primarily licensed under the **MIT License**, promoting open collabo
 
 ---
 
-## 🎨 **Visuals & Design**  
-<p align="center">
-   
----
-
 <h2 align="center">🚀 <i>Let's Build the Future Together!</i> 🚀</h2>  
 
 ---
 
 ### 💫 **Made with ❤️ by RenzoAl Tech**  
-
----
-
